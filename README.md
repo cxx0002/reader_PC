@@ -1,4 +1,4 @@
-# 唯优小说
+# 甜甜小说
 
 使用vue.js实现的纯前端小说阅读器，该项目主要用于学习前端技术。
 
@@ -16,9 +16,7 @@
 
 ![阅读界面](screenshots/3.png)
 
-### 源码参考
 
-源码参考自：<https://github.com/zgsnbtl/vue-guapi>
 
 ### 项目依赖
 
